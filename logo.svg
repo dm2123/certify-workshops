@@ -1,10 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <!-- Shield background (navy) -->
-  <path d="M32 2 L56 10 V30 C56 46 44 58 32 62 C20 58 8 46 8 30 V10 Z" fill="#1a237e"/>
-  <!-- Inner shield (slightly lighter navy) -->
-  <path d="M32 7 L51 13.5 V30 C51 43 41.5 53 32 56.5 C22.5 53 13 43 13 30 V13.5 Z" fill="#283593"/>
-  <!-- Gold checkmark -->
-  <path d="M22 32 L29 39 L43 24" fill="none" stroke="#d4af37" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- Small gold accent dot -->
-  <circle cx="32" cy="48" r="2.5" fill="#d4af37"/>
+  <!-- Shield background (deep navy) -->
+  <path d="M32 2 L56 10 V30 C56 46 44 58 32 62 C20 58 8 46 8 30 V10 Z" fill="#0d1526"/>
+  <!-- Inner shield -->
+  <path d="M32 7 L51 13.5 V30 C51 43 41.5 53 32 56.5 C22.5 53 13 43 13 30 V13.5 Z" fill="#1a2340"/>
+  <!-- Stylized 'G' with circuit nodes (Gurukul + Cyber) in gold -->
+  <path d="M42 24 C38 19 30 18 25 22 C20 26 19 33 23 38 C27 43 34 44 39 40 L39 34 L30 34" fill="none" stroke="#d4af37" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Circuit dots -->
+  <circle cx="42" cy="24" r="2.5" fill="#d4af37"/>
+  <circle cx="25" cy="22" r="2" fill="#d4af37"/>
+  <circle cx="32" cy="49" r="2.5" fill="#d4af37"/>
 </svg>
