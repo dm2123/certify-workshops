@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <!-- Shield background (deep navy) -->
-  <path d="M32 2 L56 10 V30 C56 46 44 58 32 62 C20 58 8 46 8 30 V10 Z" fill="#0d1526"/>
-  <!-- Inner shield -->
-  <path d="M32 7 L51 13.5 V30 C51 43 41.5 53 32 56.5 C22.5 53 13 43 13 30 V13.5 Z" fill="#1a2340"/>
-  <!-- Stylized 'G' with circuit nodes (Gurukul + Cyber) in gold -->
-  <path d="M42 24 C38 19 30 18 25 22 C20 26 19 33 23 38 C27 43 34 44 39 40 L39 34 L30 34" fill="none" stroke="#d4af37" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- Circuit dots -->
-  <circle cx="42" cy="24" r="2.5" fill="#d4af37"/>
-  <circle cx="25" cy="22" r="2" fill="#d4af37"/>
-  <circle cx="32" cy="49" r="2.5" fill="#d4af37"/>
-</svg>
+PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CiAgPCEtLSBTaGllbGQgYmFja2dyb3VuZCAoZGVlcCBuYXZ5KSAtLT4KICA8cGF0aCBkPSJNMzIgMiBMNTYgMTAgVjMwIEM1NiA0NiA0NCA1OCAzMiA2MiBDMjAgNTggOCA0NiA4IDMwIFYxMCBaIiBmaWxsPSIjMGQxNTI2Ii8+CiAgPCEtLSBJbm5lciBzaGllbGQgLS0+CiAgPHBhdGggZD0iTTMyIDcgTDUxIDEzLjUgVjMwIEM1MSA0MyA0MS41IDUzIDMyIDU2LjUgQzIyLjUgNTMgMTMgNDMgMTMgMzAgVjEzLjUgWiIgZmlsbD0iIzFhMjM0MCIvPgogIDwhLS0gU3R5bGl6ZWQgJ0cnIHdpdGggY2lyY3VpdCBub2RlcyAoR3VydWt1bCArIEN5YmVyKSBpbiBnb2xkIC0tPgogIDxwYXRoIGQ9Ik00MiAyNCBDMzggMTkgMzAgMTggMjUgMjIgQzIwIDI2IDE5IDMzIDIzIDM4IEMyNyA0MyAzNCA0NCAzOSA0MCBMMzkgMzQgTDMwIDM0IiBmaWxsPSJub25lIiBzdHJva2U9IiNkNGFmMzciIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgPCEtLSBDaXJjdWl0IGRvdHMgLS0+CiAgPGNpcmNsZSBjeD0iNDIiIGN5PSIyNCIgcj0iMi41IiBmaWxsPSIjZDRhZjM3Ii8+CiAgPGNpcmNsZSBjeD0iMjUiIGN5PSIyMiIgcj0iMiIgZmlsbD0iI2Q0YWYzNyIvPgogIDxjaXJjbGUgY3g9IjMyIiBjeT0iNDkiIHI9IjIuNSIgZmlsbD0iI2Q0YWYzNyIvPgo8L3N2Zz4K
