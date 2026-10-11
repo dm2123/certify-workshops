@@ -1,0 +1,8 @@
+# Certify Workshops — robots.txt
+# Honest note: this site is a single-page app behind GitHub Pages with
+# HASH routing (#/workshops/..., #/verify/...). Search-engine crawlers do
+# NOT execute the hash fragment, so deep routes are not meaningfully
+# crawlable/indexable. Allow-all here only governs the shell entry page.
+# There is no sitemap.xml — a sitemap of hash routes would be misleading.
+User-agent: *
+Allow: /
